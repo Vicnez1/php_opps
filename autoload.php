@@ -7,7 +7,6 @@ spl_autoload_register(function($class_name){
 
 //$foo = new Foo;
 //$foo->sayHello();
-
 $bar = new Bar;
 $bar->sayHello();
 echo "<br/>";
