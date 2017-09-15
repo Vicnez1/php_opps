@@ -38,6 +38,7 @@ class Dog extends Animal
 		return 'Bark';
 	}
 }
+
 $animal = new Duck();
 $animal->name = 'Ben';
 $animal->color = 'White';
